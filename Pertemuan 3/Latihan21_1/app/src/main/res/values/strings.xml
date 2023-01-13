@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Latihan2.1_1</string>
+    <string name="text_header_reply">reply</string>
+    <string name="send">send</string>
+    <string name="editText_main">main</string>
+    <string name="text_header">header</string>
+    <string name="button_second">bt_second</string>
+    <string name="editText_second">second</string>
+</resources>

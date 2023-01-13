@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="layout_padding">16dp</dimen>
+    <dimen name="view_margin">4dp</dimen>
+</resources>
